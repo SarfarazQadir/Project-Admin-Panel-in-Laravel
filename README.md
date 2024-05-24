@@ -2,6 +2,9 @@
 
 ![image](https://github.com/SarfarazQadir/Rolebase-Authentication-in-Laravel/assets/144503703/5fe29754-8dd1-44f5-a12b-45982d81749d)
 
+![image](https://github.com/SarfarazQadir/Project-Admin-Panel-in-Laravel/assets/144503703/04267eb3-e96a-44e1-99cb-c2ece10948d6)
+
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
