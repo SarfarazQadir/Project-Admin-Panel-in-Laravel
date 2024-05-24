@@ -6,6 +6,9 @@
 
 ![image](https://github.com/SarfarazQadir/Project-Admin-Panel-in-Laravel/assets/144503703/77ba860c-7c74-4a25-bb68-2e88335e3ffe)
 
+![image](https://github.com/SarfarazQadir/Project-Admin-Panel-in-Laravel/assets/144503703/d342f2d6-1570-4f2f-89dc-cde723d331ae)
+
+
 
 
 
