@@ -104,4 +104,14 @@ class ProductController extends Controller
         Product::find($id)->delete();
         return back();
     }
+
+    /**
+     * Search Work
+     */
+
+     Public function search(string $id){
+        $search = $_GET['query'];
+        $products = Product::where('product_name', 'LIKE', '%' . $search . '%')->get();
+        return view('admin.search', compact('products'));
+     }
 }

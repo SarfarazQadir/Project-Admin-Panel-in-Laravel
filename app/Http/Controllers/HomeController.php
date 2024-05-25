@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Product;
 
 class HomeController extends Controller
 {
@@ -27,7 +28,8 @@ class HomeController extends Controller
         if ($role == 1) {
             return view('admin.dashboard');
         }else{
-            return view('home');
+            $product = Product::all();
+            return view('home', compact("product"));
         }
         return view('home');
     }

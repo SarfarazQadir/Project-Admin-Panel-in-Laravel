@@ -15,6 +15,9 @@
           <div class="table-responsive">
             <table class="table table-striped table-md">
            <thead>
+            <form action="">
+              <input type="search" class="form control bg-grey" name="search">
+            </form>
               <tr>
                 <th>Product Name</th>
                 <th>Product Discription</th>
